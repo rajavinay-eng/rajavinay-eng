@@ -27,11 +27,15 @@ https://github.com/rajavinay-eng/multi-document-analysis-tool
 
 ---
 
-### customer-churn-prediction
-Machine learning system for telecom churn prediction using classification models and Streamlit deployment.
+### fraud-detection-system
 
-Live Demo:
-https://churn-prediction-276fanpncsvtjeuopguivf.streamlit.app
+End-to-end fraud detection system on 6.3M real transactions.
+XGBoost classifier with SMOTE oversampling, SHAP explainability,
+and Streamlit deployment. ROC-AUC 0.9946, Recall 1.00 on fraud cases.
+
+ Live Demo: https://fraud-detection-system-jhacr2c7dfnnjpd2qvlumn.streamlit.app
+
+GitHub Repository: https://github.com/rajavinay-eng/fraud-detection-system
 
 GitHub Repository:
 https://github.com/rajavinay-eng
