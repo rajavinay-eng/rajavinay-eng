@@ -4,7 +4,7 @@ I'm finishied my MSc in Business Analytics at NEOMA Business School in France. B
 
 Most of my projects start with a simple baseline, and I only keep a fancier model if it actually beats it. Sometimes it doesn't. My two-tower neural network lost to a basic rule in the H&M project, and I left that in.
 
-I'm looking for **Data Scientist, Data Analyst, ML/AI Engineer and Business Analyst** roles, internship or junior, in **India and France**. I'm based in India. Languages: English (C2), French (A2).
+I'm looking for **Data Scientist, Data Analyst, ML/AI Engineer and Business Analyst** roles, internship or junior. 
 
 ## Projects
 
